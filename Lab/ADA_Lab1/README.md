@@ -1,3 +1,5 @@
+## Lab 1
+
 Problem Topics: [Divide and 
 Conquer](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#:~:text=The%20divide%2Dand%2Dconquer%20paradigm,to%20solve%20the%20given%20problem)  
 
